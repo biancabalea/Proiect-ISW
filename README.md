@@ -5,5 +5,5 @@ Balea Bianca-Andreea - team lead
 
 Tehnologii:
 Baza de date - MySQL/MySQLWorkbench
-Frontend - ReactJS 
+Frontend - Angular
 Backend - Springboot/Java
