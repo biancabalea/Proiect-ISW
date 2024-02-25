@@ -1,6 +1,6 @@
 # Proiect-ISW
-Dineti Adela-Antonia - frontend developer
-Anghel Monica-Mihaela - backend developer
+Dineti Adela-Antonia - backend developer
+Anghel Monica-Mihaela - frontend developer
 Balea Bianca-Andreea - team lead
 
 Tehnologii:
