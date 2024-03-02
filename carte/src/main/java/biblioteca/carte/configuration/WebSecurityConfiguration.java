@@ -2,7 +2,6 @@ package biblioteca.carte.configuration;
 
 import biblioteca.carte.enums.UserRole;
 import biblioteca.carte.services.jwt.UserService;
-import jakarta.servlet.Filter;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
