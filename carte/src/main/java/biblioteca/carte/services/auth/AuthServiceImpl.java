@@ -5,12 +5,13 @@ import biblioteca.carte.dto.UserDto;
 import biblioteca.carte.entity.User;
 import biblioteca.carte.enums.UserRole;
 import biblioteca.carte.repository.UserRepository;
+import biblioteca.carte.services.auth.AuthService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
 @Service
 @RequiredArgsConstructor
-public class AuthServiceImpl implements AuthService{
+public class AuthServiceImpl implements AuthService {
 
     private final UserRepository userRepository;
 
